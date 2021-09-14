@@ -85,7 +85,9 @@ PID design
     
     - PID for Dummies https://www.csimn.com/CSI_pages/PIDforDummies.html
 
-    -Control Tutorials for MATLAB https://ctms.engin.umich.edu/CTMS/index.php?example=Introduction&section=ControlPID
+    - Control Tutorials for MATLAB https://ctms.engin.umich.edu/CTMS/index.php?example=Introduction&section=ControlPID
+    
+    - Control Tutorials for MATLAB 2 https://ctms.engin.umich.edu/CTMS/index.php?example=MotorSpeed&section=ControlPID
 Accelerometer Tutorial 
 
     - https://mschoeffler.com/2017/10/05/tutorial-how-to-use-the-gy-521-module-mpu-6050-breakout-board-with-the-arduino-uno/
