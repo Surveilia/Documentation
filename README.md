@@ -81,8 +81,11 @@ Page creation in XAML and C#
 ### PID
 PID design 
 
-    - https://www.allaboutcircuits.com/technical-articles/an-introduction-to-control-systems-designing-a-pid-controller-using-matlabs/
+    - All about Circuits https://www.allaboutcircuits.com/technical-articles/an-introduction-to-control-systems-designing-a-pid-controller-using-matlabs/
+    
+    - PID for Dummies https://www.csimn.com/CSI_pages/PIDforDummies.html
 
+    -Control Tutorials for MATLAB https://ctms.engin.umich.edu/CTMS/index.php?example=Introduction&section=ControlPID
 Accelerometer Tutorial 
 
     - https://mschoeffler.com/2017/10/05/tutorial-how-to-use-the-gy-521-module-mpu-6050-breakout-board-with-the-arduino-uno/
