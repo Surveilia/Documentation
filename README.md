@@ -119,4 +119,4 @@ Drone CAD drawings built in: Fusion 360
     - Mission planner: https://ardupilot.org/planner/index.html#home
     - Github Repo: https://github.com/ArduPilot/ardupilot
 
-##Likely flight controller: https://shop.holybro.com/kakute-f7-v15-stacks_p1224.html
+## Likely flight controller: https://shop.holybro.com/kakute-f7-v15-stacks_p1224.html
