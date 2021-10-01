@@ -31,7 +31,7 @@ purchased from: https://www.getfpv.com/
     Cost (CAD): $367.17
     
     Acquired: 
-    ~ 4x T-Motor VELOX VELOCE V2207.5 V2 Motor - 1750 kv/1950kv2550kv (Royal Blue)          $70.00
+    ~ 4x T-Motor VELOX VELOCE V2207.5 V2 Motor - 1750 kv (Royal Blue)                       $70.00
     ~ HQPROP DP 5X4.3X3V25 Propeller (Set of 4 - blue)                                      $2.99
     ~ XILO 1250 mAh 6s 75c Lipo Battery                                                     $29.99
     ~ ToolkitRC M7 200W 10A 2-6s DC Multifunctional Balance Charger                         $39.99
@@ -46,23 +46,21 @@ purchased from: https://www.getfpv.com/
       accelerometer Gyroscope Sensor Module for Arduino DIY (Pack of 3) EK1091x3C             
 
 
-### Pi and accessories 
+### Computers and accessories 
 purchased from - https://www.canakit.com
 
-    Cost (CAD): $105.03
+    Cost (CAD): $259.45 CAD
     Acquired 
      ~ Raspberry Pi - 32 GB Memory Card w/NOOBS                                           $12.95
      ~ Raspberry Pi NoIR Camera - 8 Megapixel (V2)                                        $39.95
-     ~ Raspberry Pi Zero Camera Cable                                                     $5.95
-     ~ Raspberry Pi Zero Wireless (Board Only)                                            $10.00
-                                                                                          + taxes, shipping
+     ~ Kakute F7 Flight Controller/H7 V2 VTx                                              $140.37 w/shipping/handling + $30.00 duty  
                                                                                  
 
 ### Total Cost
 
-    Current Total Cost:     $485.18
-    4 way total:            $121.30
-    Expected 4 way total:   $58.84
+    Current Total Cost:     $639.57
+    4 way total:            $159.89
+    Expected 4 way total:   $97.39
 
 * Look to  double asterisk at top of README if there are any questions about the cost. 
 
