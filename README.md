@@ -49,7 +49,7 @@ purchased from: https://www.getfpv.com/
 ### Computers and accessories 
 purchased from - https://www.canakit.com
 
-    Cost (CAD): $259.45 CAD
+    Cost (CAD): $223.27 CAD
     Acquired 
      ~ Raspberry Pi - 32 GB Memory Card w/NOOBS                                           $12.95
      ~ Raspberry Pi NoIR Camera - 8 Megapixel (V2)                                        $39.95
