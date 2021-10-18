@@ -54,13 +54,35 @@ purchased from - https://www.canakit.com
      ~ Raspberry Pi - 32 GB Memory Card w/NOOBS                                           $12.95
      ~ Raspberry Pi NoIR Camera - 8 Megapixel (V2)                                        $39.95
      ~ Kakute F7 Flight Controller/H7 V2 VTx                                              $140.37 w/shipping/handling + $30.00 duty  
-                                                                                 
+     ~ CM4 - Lite, CM4002000 Pishop.ca                                                    $62.21 ($12.00 shipping, $2.96 tax)
 
-### Total Cost
 
-    Current Total Cost:     $639.57
-    4 way total:            $159.89
-    Expected 4 way total:   $97.39
+### Kaden's Orders
+    ~Black Series 1100mAh 22.2V 6s 100c Lipo                                              $62.99
+    ~BN-220 GPS                                                                           $24.99
+    ~XT60H battery plugs 10 pairs                                                         $16.46
+    ~M3 bolts and nuts                                                                    $15.00
+    
+#### Total Cost - Kaden
+    
+    Current Total Cost:     $119.44
+    Camosun Offset:         $36.25
+    4-way Total:            $20.80
+
+#### Total Cost - Chase
+
+    Current Total Cost:     $701.78
+    Camosun Offset:         $213.75
+    4-way Total:            $488.03
+    
+    
+### Total Cost:
+    
+    Current Total: $821.22
+    Chase & Kaden differential: Kaden 14.5% ---- $250 (From Camosun) * 14.5% = $36.25 from Camosun to Kaden
+    
+    Total 4-way Cost:       $58.83
+
 
 * Look to  double asterisk at top of README if there are any questions about the cost. 
 
