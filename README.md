@@ -65,15 +65,15 @@ purchased from - https://www.canakit.com
     
 #### Total Cost - Kaden
     
-    Current Total Cost:     $119.44
-    Camosun Offset:         $36.25
-    4-way Total:            $20.80
+    Current Total Cost:             $119.44
+    Camosun Offset:                 $36.25
+    4-way Total (each person:       $20.80
 
 #### Total Cost - Chase
 
     Current Total Cost:     $701.78
     Camosun Offset:         $213.75
-    4-way Total:            $488.03
+    4-way Total:            $122.01
     
     
 ### Total Cost:
