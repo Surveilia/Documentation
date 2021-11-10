@@ -82,7 +82,7 @@ purchased from - https://www.canakit.com
     Current Total: $836.22
     Chase & Kaden differential: Kaden 16.08% ---- $250 (From Camosun) * 16.08% = $40.19 from Camosun to Kaden
     
-    Total 4-way Cost:       $146.56
+    Total 4-way Cost:       $146.55
 
 
 * Look to  double asterisk at top of README if there are any questions about the cost. 
