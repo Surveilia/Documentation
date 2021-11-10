@@ -62,26 +62,27 @@ purchased from - https://www.canakit.com
     ~BN-220 GPS                                                                           $24.99
     ~XT60H battery plugs 10 pairs                                                         $16.46
     ~M3 bolts and nuts                                                                    $15.00
+    ~Registration & License                                                               $15.00
     
 #### Total Cost - Kaden
     
-    Current Total Cost:             $119.44
-    Camosun Offset:                 $36.25
-    4-way Total (each person:       $20.80
+    Current Total Cost:             $134.44
+    Camosun Offset:                 $40.19
+    4-way Total (each person:       $23.56
 
 #### Total Cost - Chase
 
     Current Total Cost:     $701.78
-    Camosun Offset:         $213.75
-    4-way Total:            $122.01
+    Camosun Offset:         $209.81
+    4-way Total:            $122.99
     
     
 ### Total Cost:
     
-    Current Total: $821.22
-    Chase & Kaden differential: Kaden 14.5% ---- $250 (From Camosun) * 14.5% = $36.25 from Camosun to Kaden
+    Current Total: $836.22
+    Chase & Kaden differential: Kaden 16.08% ---- $250 (From Camosun) * 16.08% = $40.19 from Camosun to Kaden
     
-    Total 4-way Cost:       $58.83
+    Total 4-way Cost:       $146.56
 
 
 * Look to  double asterisk at top of README if there are any questions about the cost. 
