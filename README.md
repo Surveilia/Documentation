@@ -10,12 +10,12 @@ Capstone project for 2021 Fall Electronics and Computer Engineering Technology (
 Drone designed using skills developed in ECET to showcase competencies learned and ability to accomplish technical tasks in a team
 
 ##### Intent
-To create an automated security drone.
+Surveilia is an autonomous drone that patrols areas on designated flight paths. It can detect and report humans to ground-station software; as well, it can acquire flight data for records and graphical display. Surveilia uses OpenCV for computer vision and ArduPilot flight automation. Onboard the drone is a Raspberry Pi Compute Module 4 (CM4) and a Kakute F7 V1.5 Flight Controller. The CM4 relays data back to the ground station, while the F7 allows autonomous flight and control.  
 
 
 
 
-## Bill of Materials
+## Bill of Materials & Accounting
 
 ### Motors and components 
 
@@ -30,6 +30,7 @@ purchased from: https://www.getfpv.com/
     Cost (USD): $292.56
     Cost (CAD): $367.17
     
+    *These values are potentially misleading. Prices are in USD. 
     Acquired: 
     ~ 4x T-Motor VELOX VELOCE V2207.5 V2 Motor - 1750 kv (Royal Blue)                       $70.00
     ~ HQPROP DP 5X4.3X3V25 Propeller (Set of 4 - blue)                                      $2.99
@@ -39,7 +40,7 @@ purchased from: https://www.getfpv.com/
     ~ RUNCAM LIPO GUARD BAG                                                                 $14.99
                                                                                             + 2 x (taxes, shipping, and insurance)
                                                                                             
-### Arduino PID testing
+### Inertial Measurement Unit (IMU)
 
     Acquired:
     ~ Gikfun GY-521 MPU-6050 3 Axis Accelerometer Gyroscope Module 6 DOF 6-axis            $12.98
@@ -109,6 +110,8 @@ PID design
     - Control Tutorials for MATLAB https://ctms.engin.umich.edu/CTMS/index.php?example=Introduction&section=ControlPID
     
     - Control Tutorials for MATLAB 2 https://ctms.engin.umich.edu/CTMS/index.php?example=MotorSpeed&section=ControlPID
+
+
 Accelerometer Tutorial 
 
     - https://mschoeffler.com/2017/10/05/tutorial-how-to-use-the-gy-521-module-mpu-6050-breakout-board-with-the-arduino-uno/
@@ -120,6 +123,7 @@ Accelerometer Tutorial
     - MPU6050 Guide: https://electrorules.com/complete-guide-on-mpu6050-gyroscope-accelerometer-sensor-module/
     
     - MPU6050 Guide #2: https://www.electronicwings.com/sensors-modules/mpu6050-gyroscope-accelerometer-temperature-sensor-module
+
 
 I2C Communication Tutorial 
                                     
@@ -140,4 +144,3 @@ Drone CAD drawings built in: Fusion 360
     - Mission planner: https://ardupilot.org/planner/index.html#home
     - Github Repo: https://github.com/ArduPilot/ardupilot
 
-## Likely flight controller: https://shop.holybro.com/kakute-f7-v15-stacks_p1224.html
