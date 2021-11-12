@@ -1,7 +1,7 @@
 # rotosecure basics
 
 
-#### Documentation maintained by Chase Westlake
+### Documentation maintained by: Chase Westlake
 
 ##### Team 
 Chase Westlake, Kaden Taylor, Ethan Pyle, Ben Kennedy
