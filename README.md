@@ -1,5 +1,8 @@
 # rotosecure basics
 
+
+#### Documentation maintained by Chase Westlake
+
 ##### Team 
 Chase Westlake, Kaden Taylor, Ethan Pyle, Ben Kennedy
 
@@ -145,6 +148,9 @@ I2C Communication Tutorial
 
 
 ### Pi Zero W
+
+Compute Module 4 (CM4) is no longer to be used, as of November 5th, 2021. The CM4 contains components that are unavailble for PCB manufacture within the timeframe of the project. The Pi Zero is now designated as the flight computer. Kaden Taylor is designing the daughter board which will hold the Pi, DHT11, and MPU6050. Chase Westlake has scripts written for the Pi Zero to immediately configure the MPU6050 on the Pi zero. 
+
 
 Shell Scripting Tutorials
 
