@@ -101,7 +101,23 @@ Page creation in XAML and C#
     Most recent reference: https://www.youtube.com/watch?v=OJygSefHVr0&t=87s
 
 ### PID
-PID design 
+PID Tuning
+
+    - Betaflight tuning: https://github-wiki-see.page/m/betaflight/betaflight/wiki/PID-Tuning-Guide
+    
+    - GETFPV tuning: https://www.getfpv.com/learn/fpv-essentials/fpv-drone-basic-pid-tuning-rates/
+    
+    - Beyond Earth Betaflgiht 4.2 PID rapid tuning: https://fpvbeyond.earth/betaflight-4-2-pid-tuning-quick-and-dirty/?lang=en
+    
+
+#### November 12, 2021: The PID was orignally planned to be developed by Surveilia. However, we quickly came to the conclusion that any flight controller design was well 
+#### outside of bounds of our scope. Instead, we used BetaFlight and ArduPilot for our PID. It is important to note that much of PID tuning relies on evaluating 
+#### black box data. At this point, a mild hand tune is all we will be doing. A comprehensive black box tune probably will not be done within the scope of the project. 
+
+
+
+
+ PID design links
 
     - All about Circuits https://www.allaboutcircuits.com/technical-articles/an-introduction-to-control-systems-designing-a-pid-controller-using-matlabs/
     
