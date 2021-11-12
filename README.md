@@ -110,9 +110,7 @@ PID Tuning
     - Beyond Earth Betaflgiht 4.2 PID rapid tuning: https://fpvbeyond.earth/betaflight-4-2-pid-tuning-quick-and-dirty/?lang=en
     
 
-#### November 12, 2021: The PID was orignally planned to be developed by Surveilia. However, we quickly came to the conclusion that any flight controller design was well 
-#### outside of bounds of our scope. Instead, we used BetaFlight and ArduPilot for our PID. It is important to note that much of PID tuning relies on evaluating 
-#### black box data. At this point, a mild hand tune is all we will be doing. A comprehensive black box tune probably will not be done within the scope of the project. 
+#### November 12, 2021: The PID was orignally planned to be developed by Surveilia. However, we quickly came to the conclusion that any flight controller design was well outside of bounds of our scope. Instead, we used BetaFlight and ArduPilot for our PID. It is important to note that much of PID tuning relies on evaluating black box data. At this point, a mild hand tune is all we will be doing. A comprehensive black box tune probably will not be done within the scope of the project. 
 
 
 
